@@ -1,6 +1,6 @@
 // import
 importScripts('js/sw-utils.js')
-
+console.log ("SW: CARGADO")
 const STATIC_CACHE = "static-v2.1";
 const DYNAMIC_CACHE = "dynamic-v1";
 const INMUTABLE_CACHE = "inmutable-v1";
